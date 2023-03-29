@@ -12,3 +12,5 @@ Google Sheets 에 저장된 데이터를 바탕으로 서강대학교 주변의 
 미식봇! 빨리! 를 입력하면 학교에서 가까운 곳을 추천해줘요! ("가깝다" 의 기준은 주관적입니다.)
 미식봇! 배고파! 를 입력하면 랜덤으로 식당을 추천해줘요!
 미식봇! 술 을 입력하면 학교 주변 술집을 하나 추천해줍니다!
+
+Crappy sorting algorithms and almost no error handling, this is the pinnacle of bad code. But hey, fit it works, it works. and 90% of the time, works every time.
